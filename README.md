@@ -18,7 +18,7 @@ The post page would look like this:
 
 ## Features
 
-- [Google Fonts](https://fonts.google.com/)
+- ![Bienvenidos a mi cuenta de github](https://raw.githubusercontent.com/pepeceb/adam-blog/main/assets/img/IMG-20210728-WA0047.jpg?raw=true)
 - [Font Awesome](http://fontawesome.io/)
 - [Disqus](https://disqus.com/)
 - [MailChimp](https://mailchimp.com/)
