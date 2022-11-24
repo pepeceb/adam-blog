@@ -1,3 +1,10 @@
+# nada como navegar por la bahia de bouzas
+
+https://raw.githubusercontent.com/pepeceb/adam-blog/main/assets/img/IMG-20210728-WA0047.jpg
+
+
+
+
 # Adam Blog is a minimal clear theme for Jekyll
 
 ![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
