@@ -11,7 +11,7 @@ Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
 The main page would look like this:
 
 ![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
-
+![bienvenidos a mi pagina github](https://raw.githubusercontent.com/pepeceb/adam-blog/main/assets/img/IMG-20210728-WA0047.jpg?raw=true)
 The post page would look like this:
 
 ![Post page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true)
