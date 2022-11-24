@@ -3,7 +3,7 @@
 ![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
 
 ## Demo
-![bahia de bouzas] (https://raw.githubusercontent.com/pepeceb/adam-blog/main/assets/img/IMG-20210728-WA0047.jpg?raw=true)
+![bahia de bouzas] ([https://raw.githubusercontent.com/pepeceb/adam-blog/main/assets/img/IMG-20210728-WA0047.jpg](https://raw.githubusercontent.com/pepeceb/adam-blog/main/assets/img/IMG-20210728-WA0047.jpg?raw=true)
 
 
 Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
